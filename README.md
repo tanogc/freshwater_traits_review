@@ -22,4 +22,5 @@ Freshwater Biology
 ## Original data
 * wos.txt: data from literature survey 
 * survey.txt: data from researcher's survey (questionnaire)
+* supplementary_data_s1.xlsx: includes original and processed responses of the survey
 
