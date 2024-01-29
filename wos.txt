@@ -1,0 +1,4 @@
+term	Biodiversity Conservation	Entomology	Environmental Sciences	Fisheries	Marine and Freshwater Biology	Microbiology	Plant Sciences	Zoology
+biological trait	987	329	1999	183	1003	183	640	1741
+functional trait	5683	318	8977	115	1446	765	6114	2946
+species trait	2250	221	3503	111	1147	94	1370	2162
